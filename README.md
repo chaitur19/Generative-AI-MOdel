@@ -1,1 +1,1 @@
-# Generative-AI-MOdel
+# Generative-AI-Model
